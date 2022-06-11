@@ -4,6 +4,7 @@ import './App.css'
 import Banner from './Components/Banner/Banner.js';
 import RowPost from './Components/RowPost/RowPost.js';
 import {Action,Originals} from './url'
+import YouTube from 'react-youtube';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
     <Banner/>
     <RowPost title="Netflix Orginals" url={Originals}/>
     <RowPost title="Action" isSmall url={Action} />
+   
 
     </div>
   );
