@@ -7,78 +7,78 @@ export default function Footer() {
           <p>
             <span>
            
-              <a href="#"> Questions? Call 000-800-040-1843</a>
+             Questions? Call 000-800-040-1843
             </span>
           </p>
         <section>
           <ul>
             <li>
               <span>
-                <a href="#">FAQ</a>
+              FAQ
               </span>
             </li>
             <li>
               <span>
-                <a href="#">Investor Relations</a>
+              Investor Relations
               </span>
             </li>
             <li>
               <span>
-                <a href="#">Privacy</a>
+              Privacy
               </span>
             </li>
             <li>
               <span>
-                <a href="#">Speed Test</a>
+              Speed Test
               </span>
             </li>
             </ul>
             <ul>
             <li>
               <span>
-                <a href="#">Help Centre</a>
+              Help Centre
               </span>
             </li>
             <li>
               <span>
-                <a href="#">Jobs</a>
+              Jobs
               </span>
             </li>
             <li>
               <span>
-                <a href="#">Cookie Preferences</a>
+              Cookie Preferences
               </span>
             </li>
             <li>
               <span>
-                <a href="#">Legal Notices</a>
+              Legal Notices
               </span>
             </li>
             </ul><ul>
             <li>
               <span>
-                <a href="#">Account</a>
+              Account
               </span>
             </li>
             <li>
               <span>
-                <a href="#">Ways to Watch</a>
+              Ways to Watch
               </span>
             </li>
             <li>
               <span>
-                <a href="#">Corporate Information</a>
+              Corporate Information
               </span>
             </li>
             <li>
               <span>
-                <a href="#">Only on Netflix</a>
+              Only on Netflix
               </span>
             </li>
           </ul>
-          <ul><li><span><a href="#">Media Centre</a></span></li>
-          <li><span><a href="#">Terms Of Use</a></span></li>
-          <li><span><a href="#">Contact Us</a></span></li></ul>
+          <ul><li><span>Media Centre</span></li>
+          <li><span>Terms Of Use</span></li>
+          <li><span>Contact Us</span></li></ul>
         </section>
         <p>Netflix India</p>
       </footer>

@@ -8,6 +8,8 @@ section{
     padding: 20px;
     width: 900px;
     
+}span{
+    color: rgb(115,115,115);
 }
 a{
     text-decoration: none;
