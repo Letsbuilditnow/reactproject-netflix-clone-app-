@@ -4,7 +4,7 @@ import './App.css'
 import Banner from './Components/Banner/Banner.js';
 import RowPost from './Components/RowPost/RowPost.js';
 import Footer from './Components/Footer/Footer.js';
-import {Action,Originals, Romance} from './url'
+import {Action,Originals, Romance,Drama} from './url'
 
 
 function App() {
@@ -15,6 +15,8 @@ function App() {
     <RowPost title="Netflix Orginals" url={Originals}/>
     <RowPost title="Action" isSmall url={Action} />
     <RowPost title="Romance" isSmall url={Romance}/>
+    <RowPost title="Drama" isSmall url={Drama}/>
+
    <Footer></Footer>
 
     </div>
