@@ -3,7 +3,8 @@ import NavBar from './Components/NavBar/NavBar.js';
 import './App.css'
 import Banner from './Components/Banner/Banner.js';
 import RowPost from './Components/RowPost/RowPost.js';
-import {Action,Originals} from './url'
+import Footer from './Components/Footer/Footer.js';
+import {Action,Originals, Romance} from './url'
 
 
 function App() {
@@ -13,7 +14,8 @@ function App() {
     <Banner/>
     <RowPost title="Netflix Orginals" url={Originals}/>
     <RowPost title="Action" isSmall url={Action} />
-   
+    <RowPost title="Romance" isSmall url={Romance}/>
+   <Footer></Footer>
 
     </div>
   );
