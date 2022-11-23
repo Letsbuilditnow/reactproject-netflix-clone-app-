@@ -5,20 +5,21 @@ import Banner from './Components/Banner/Banner.js';
 import RowPost from './Components/RowPost/RowPost.js';
 import Footer from './Components/Footer/Footer.js';
 import {Action,Originals, Romance,Drama} from './url'
+import Homepage from './Components/Homepage/Homepage.jsx';
 
 
 function App() {
   return (
     <div className="App">
-    <NavBar/>
+    {/* <NavBar/>
     <Banner/>
     <RowPost title="Netflix Orginals" url={Originals}/>
     <RowPost title="Action" isSmall url={Action} />
     <RowPost title="Romance" isSmall url={Romance}/>
     <RowPost title="Drama" isSmall url={Drama}/>
 
-   <Footer></Footer>
-
+   <Footer></Footer> */}
+<Homepage></Homepage>
     </div>
   );
 }
