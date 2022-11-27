@@ -19,7 +19,7 @@ function Homepage() {
   <option value="English">Ireland</option>
   <option value="English">German</option>
  </select>
- <button>
+ <button className="buttonn ">
   Sign Out
  </button>
   </section>
@@ -27,7 +27,18 @@ function Homepage() {
 
   </nav>
 </header>
-
+{/* <section> */}
+  <main>
+    <span>
+      Welcome back!
+    </span>
+    <h1>Unlimited movies, TV shows and more.</h1>
+    <span>Watch anywhere. Cancel anytime.</span>
+    <button className='buttonn'>
+      Restart Your Membership >
+    </button>
+  </main>
+{/* </section> */}
 
   </div>
   )
