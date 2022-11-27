@@ -6,7 +6,7 @@ function Homepage() {
     <div>
 <header>
   <nav>
-  <img src="https://www.freepnglogos.com/uploads/netflix-logo-0.png" width="200" alt="netflix logo" /> 
+  <img src="https://www.freepnglogos.com/uploads/netflix-logo-0.png" width="200" alt="netflix  logo" /> 
   <section>
 
  <label for="language">
