@@ -40,6 +40,15 @@ function Homepage() {
   </main>
 {/* </section> */}
 
+  <section>
+    <h1>Enjoy on your TV.</h1>
+    <p>Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p>
+  </section>
+  <section>
+    <img src="#" alt="" />
+  </section>
+
+
   </div>
   )
 }

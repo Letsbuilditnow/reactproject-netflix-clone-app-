@@ -61,3 +61,16 @@ font-size: larger;
 margin-top:20px;
 margin-right:40px;
 }
+main+section{
+    height:400px;
+    color:white;
+
+   
+}
+
+main+section {
+  color: white;
+  
+ 
+
+}
