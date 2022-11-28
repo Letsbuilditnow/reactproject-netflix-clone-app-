@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
 }
 header nav{
     display: flex;
@@ -61,11 +63,44 @@ font-size: larger;
 margin-top:20px;
 margin-right:40px;
 }
-main+section{
+.watchOnContainer{
+    display:flex;
+    background-color: black;
+    
+}
+
+.watchOn{
+display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin: 0px;
     height:400px;
     color:white;
+    
+   
 
    
+}
+.watchOn h1{
+    font-size: 50px;
+    
+
+}.watchOn h2{
+    width:80%;
+    margin:0px;
+    padding:0px;
+    font-size:26px;
+    font-weight: 400;
+  padding-left:84px;
+
+
+}.watchOnImage{
+    display: flex;
+    width:50%;
+    margin:0px;
+
 }
 
 main+section {

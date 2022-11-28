@@ -1,3 +1,4 @@
+import { Container } from '@mui/material';
 import React from 'react'
 import './Homepage.css'
 
@@ -39,14 +40,25 @@ function Homepage() {
     </button>
   </main>
 {/* </section> */}
-
-  <section>
+<container className='watchOnContainer'>
+  <section className='watchOn'>
     <h1>Enjoy on your TV.</h1>
-    <p>Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p>
+    <h2>Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</h2>
   </section>
-  <section>
-    <img src="#" alt="" />
+  <section className='watchOnImage'>
+    <img src="/watchOn.png" alt="Netflix Image" />
   </section>
+</container>
+{/* </section> */}
+<container className='watchOnContainer'>
+  <section className='watchOnImage'>
+    <img src="/watchOn.png" alt="Netflix Image" />
+  </section>
+  <section className='watchOn'>
+    <h1></h1>
+    <h2>Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</h2>
+  </section>
+</container>
 
 
   </div>
