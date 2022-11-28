@@ -102,6 +102,8 @@ display: flex;
     width:50%;
     margin:0px;
 
+}.downloadContainer{
+    margin-top:20px;
 }
 .downloadContainer .watchOn h2{
     padding-top:10px;

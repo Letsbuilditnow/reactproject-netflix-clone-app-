@@ -52,7 +52,7 @@ function Homepage() {
 {/* </section> */}
 <container className=' downloadContainer watchOnContainer'>
   <section className='watchOnImage'>
-    <img src="Downloadcontainerimg.png" alt="Netflix Image" />
+    <img src="Downloadcontainer" alt="Netflix Image" />
   </section>
   <section className='watchOn'>
     <h1>Download your shows to watch offline.</h1>
