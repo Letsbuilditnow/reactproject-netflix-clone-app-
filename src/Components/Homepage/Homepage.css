@@ -91,6 +91,7 @@ display: flex;
     width:80%;
     margin:0px;
     padding:0px;
+    padding-top:20px;
     font-size:26px;
     font-weight: 400;
   padding-left:84px;
@@ -101,6 +102,15 @@ display: flex;
     width:50%;
     margin:0px;
 
+}
+.downloadContainer .watchOn h2{
+    padding-top:10px;
+    padding-left: 0px;
+    margin-left:0px;
+    margin-right:128px;
+}
+.downloadContainer .watchOn{
+    margin-top:60px;
 }
 
 main+section {
