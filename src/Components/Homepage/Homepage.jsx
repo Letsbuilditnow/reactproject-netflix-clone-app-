@@ -52,14 +52,22 @@ function Homepage() {
 {/* </section> */}
 <container className=' downloadContainer watchOnContainer'>
   <section className='watchOnImage'>
-    <img src="Downloadcontainer" alt="Netflix Image" />
+    <img src="/Downloadcontainerimg.png" alt="Netflix Image" />
   </section>
   <section className='watchOn'>
     <h1>Download your shows to watch offline.</h1>
     <h2>Save your favourites easily and always have something to watch.</h2>
   </section>
 </container>
-
+<container className='watchOnContainer'>
+  <section className=' watchEverywhere watchOn'>
+    <h1>Watch everywhere.</h1>
+    <h2>Stream unlimited movies and TV shows on your phone,tablet,laptop and TV.</h2>
+  </section>
+  <section className='watchOnImage'>
+    <img src="/watchOn.png" alt="Netflix Image" />
+  </section>
+</container>
 
   </div>
   )
