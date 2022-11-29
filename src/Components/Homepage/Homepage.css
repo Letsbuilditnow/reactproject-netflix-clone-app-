@@ -103,7 +103,7 @@ display: flex;
     margin:0px;
 
 }.downloadContainer{
-    margin-top:20px;
+    margin-top:10px;
 }
 .downloadContainer .watchOn h2{
     padding-top:10px;
@@ -113,9 +113,20 @@ display: flex;
 }
 .downloadContainer .watchOn{
     margin-top:60px;
+}.watchEverywhereContainer{
+    margin-top:10px;
 }
+.watchEverywhere{
+    margin-top:40px;
+}
+/* .watchEverywhere img{
+    padding-right:20px;
+} */
 .watchEverywhere h2{
     padding-left: 64px;
+}.watchEverywhereContainer .watchOnImage img{
+    width:600px;
+    /* margin-right:20px; */
 }
 main+section {
   color: white;

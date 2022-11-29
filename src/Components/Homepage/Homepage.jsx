@@ -59,13 +59,13 @@ function Homepage() {
     <h2>Save your favourites easily and always have something to watch.</h2>
   </section>
 </container>
-<container className='watchOnContainer'>
+<container className='watchEverywhereContainer watchOnContainer'>
   <section className=' watchEverywhere watchOn'>
     <h1>Watch everywhere.</h1>
     <h2>Stream unlimited movies and TV shows on your phone,tablet,laptop and TV.</h2>
   </section>
   <section className='watchOnImage'>
-    <img src="/watchOn.png" alt="Netflix Image" />
+    <img src="/watchEverywhere.png" alt="Netflix Image" />
   </section>
 </container>
 
