@@ -114,7 +114,9 @@ display: flex;
 .downloadContainer .watchOn{
     margin-top:60px;
 }
-
+.watchEverywhere h2{
+    padding-left: 64px;
+}
 main+section {
   color: white;
   
