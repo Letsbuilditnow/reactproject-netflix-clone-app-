@@ -68,6 +68,15 @@ function Homepage() {
     <img src="/watchEverywhere.png" alt="Netflix Image" />
   </section>
 </container>
+<container className=' downloadContainer watchOnContainer'>
+  <section className='watchOnImage'>
+    <img src="/Downloadcontainerimg.png" alt="Netflix Image" />
+  </section>
+  <section className='watchOn'>
+    <h1>Create profiles for children.</h1>
+    <h2>Send children on adventures with their favourite characters in a space made just for them -- free with your membership.</h2>
+  </section>
+</container>
 
   </div>
   )
