@@ -1,6 +1,8 @@
 import { Container } from "@mui/material";
 import React from "react";
 import "./Homepage.css";
+import FrequentlyAskedQuestions from "./FrequentlyAskedQuestions";
+import Footer from "../Footer/Footer"
 
 function Homepage() {
   return (
@@ -81,7 +83,8 @@ function Homepage() {
           </h2>
         </section>
       </container>
-     
+     <FrequentlyAskedQuestions></FrequentlyAskedQuestions>
+     <Footer></Footer>
     </div>
   );
 }
