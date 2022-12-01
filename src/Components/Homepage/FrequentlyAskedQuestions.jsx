@@ -1,18 +1,20 @@
-import React from "react";
+import React from 'react'
 
 export default function FrequentlyAskedQuestions() {
   return (
     <div>
-      <h1>Frequently Asked Questions</h1>
-      <button>What is Netflix?</button>
-      <button>How much does Netflix cost?</button>
-      <button>Where can I watch?</button>
-      <button>How do I cancel?</button>
-      <button>What can I watch on Netflix?</button>
-      <button>Is Netflix good for kids?</button>
-      <button>
-        <span>Restart Your Membership ></span>
-      </button>
+        <div class="wrap-collabsible">
+    <input id="collapsible" class="toggle" type="checkbox"/>
+    <label for="collapsible" class="lbl-toggle">More Info</label>
+    <div class="collapsible-content">
+      <div class="content-inner">
+        <p>
+          QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with
+          its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without
+          plug-ins. Test-Driven Development.
+        </p>
+      </div>
     </div>
-  );
+  </div></div>
+  )
 }
