@@ -4,18 +4,18 @@ import Button from "./Button";
 
 export default function FrequentlyAskedQuestions() {
   return (
-    <container class="FrequentlyAskedQuestionsContainer">
+    <container className="FrequentlyAskedQuestionsContainer">
       <section>
         <h1>Frequently Asked Questions</h1>
       </section>
 
-      <div class="wrap-collabsible">
-        <input id="collapsible" class="toggle" type="checkbox" />
-        <label for="collapsible" class="lbl-toggle">
+      <div className="wrap-collabsible">
+        <input id="collapsible" className="toggle" type="checkbox" />
+        <label for="collapsible" className="lbl-toggle">
           What is Netflix?
         </label>
-        <div class="collapsible-content">
-          <div class="content-inner">
+        <div className="collapsible-content">
+          <div className="content-inner">
             <p>
               Netflix is a streaming service that offers a wide variety of
               award-winning TV shows, movies, anime, documentaries and more – on
@@ -29,12 +29,12 @@ export default function FrequentlyAskedQuestions() {
             </p>
           </div>
         </div>
-        <input id="collapsible" class="toggle" type="checkbox" />
-        <label for="collapsible" class="lbl-toggle">
+        <input id="collapsible" className="toggle" type="checkbox" />
+        <label for="collapsible" className="lbl-toggle">
           How much does Netflix cost?
         </label>
-        <div class="collapsible-content">
-          <div class="content-inner">
+        <div className="collapsible-content">
+          <div className="content-inner">
             <p>
               Watch Netflix on your smartphone, tablet, Smart TV, laptop, or
               streaming device, all for one fixed monthly fee. Plans range from
@@ -42,12 +42,12 @@ export default function FrequentlyAskedQuestions() {
             </p>
           </div>
         </div>
-        <input id="collapsible" class="toggle" type="checkbox" />
-        <label for="collapsible" class="lbl-toggle">
+        <input id="collapsible" className="toggle" type="checkbox" />
+        <label for="collapsible" className="lbl-toggle">
           Where can I watch?
         </label>
-        <div class="collapsible-content">
-          <div class="content-inner">
+        <div className="collapsible-content">
+          <div className="content-inner">
             <p>
               Watch anywhere, anytime. Sign in with your Netflix account to
               watch instantly on the web at netflix.com from your personal
@@ -63,12 +63,12 @@ export default function FrequentlyAskedQuestions() {
             </p>
           </div>
         </div>
-        <input id="collapsible" class="toggle" type="checkbox" />
-        <label for="collapsible" class="lbl-toggle">
+        <input id="collapsible" className="toggle" type="checkbox" />
+        <label for="collapsible" className="lbl-toggle">
           How do I cancel?
         </label>
-        <div class="collapsible-content">
-          <div class="content-inner">
+        <div className="collapsible-content">
+          <div className="content-inner">
             <p>
               Netflix is flexible. There are no annoying contracts and no
               commitments. You can easily cancel your account online in two
@@ -77,12 +77,12 @@ export default function FrequentlyAskedQuestions() {
             </p>
           </div>
         </div>
-        <input id="collapsible" class="toggle" type="checkbox" />
-        <label for="collapsible" class="lbl-toggle">
+        <input id="collapsible" className="toggle" type="checkbox" />
+        <label for="collapsible" className="lbl-toggle">
           What can I watch on Netflix?
         </label>
-        <div class="collapsible-content">
-          <div class="content-inner">
+        <div className="collapsible-content">
+          <div className="content-inner">
             <p>
               Netflix has an extensive library of feature films, documentaries,
               TV shows, anime, award-winning Netflix originals, and more. Watch
@@ -90,12 +90,12 @@ export default function FrequentlyAskedQuestions() {
             </p>
           </div>
         </div>
-        <input id="collapsible" class="toggle" type="checkbox" />
-        <label for="collapsible" class="lbl-toggle">
+        <input id="collapsible" className="toggle" type="checkbox" />
+        <label for="collapsible" className="lbl-toggle">
           Is Netflix good for kids?
         </label>
-        <div class="collapsible-content">
-          <div class="content-inner">
+        <div className="collapsible-content">
+          <div className="content-inner">
             <p>
               The Netflix Kids experience is included in your membership to give
               parents control while kids enjoy family-friendly TV shows and
