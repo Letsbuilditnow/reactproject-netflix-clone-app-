@@ -2,7 +2,8 @@ import { Container } from "@mui/material";
 import React from "react";
 import "./Homepage.css";
 import FrequentlyAskedQuestions from "./FrequentlyAskedQuestions";
-import Footer from "../Footer/Footer"
+import Footer from "../Footer/Footer";
+import Button from "./Button";
 
 function Homepage() {
   return (
@@ -32,7 +33,8 @@ function Homepage() {
         <span>Welcome back!</span>
         <h1>Unlimited movies, TV shows and more.</h1>
         <span>Watch anywhere. Cancel anytime.</span>
-        <button className="buttonn">Restart Your Membership ></button>
+        <Button></Button>
+        
       </main>
       {/* </section> */}
       <container className="watchOnContainer">
