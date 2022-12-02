@@ -20,6 +20,7 @@ function App() {
 
    <Footer></Footer> */}
 <Homepage></Homepage>
+
     </div>
   );
 }
