@@ -29,8 +29,8 @@ export default function FrequentlyAskedQuestions() {
             </p>
           </div>
         </div>
-        <input id="collapsible" className="toggle" type="checkbox" />
-        <label for="collapsible" className="lbl-toggle">
+        <input id="collapsible2" className="toggle" type="checkbox" />
+        <label for="collapsible2" className="lbl-toggle">
           How much does Netflix cost?
         </label>
         <div className="collapsible-content">
@@ -42,8 +42,8 @@ export default function FrequentlyAskedQuestions() {
             </p>
           </div>
         </div>
-        <input id="collapsible" className="toggle" type="checkbox" />
-        <label for="collapsible" className="lbl-toggle">
+        <input id="collapsible3" className="toggle" type="checkbox" />
+        <label for="collapsible3" className="lbl-toggle">
           Where can I watch?
         </label>
         <div className="collapsible-content">
@@ -63,8 +63,8 @@ export default function FrequentlyAskedQuestions() {
             </p>
           </div>
         </div>
-        <input id="collapsible" className="toggle" type="checkbox" />
-        <label for="collapsible" className="lbl-toggle">
+        <input id="collapsible4" className="toggle" type="checkbox" />
+        <label for="collapsible4" className="lbl-toggle">
           How do I cancel?
         </label>
         <div className="collapsible-content">
@@ -77,8 +77,8 @@ export default function FrequentlyAskedQuestions() {
             </p>
           </div>
         </div>
-        <input id="collapsible" className="toggle" type="checkbox" />
-        <label for="collapsible" className="lbl-toggle">
+        <input id="collapsible5" className="toggle" type="checkbox" />
+        <label for="collapsible5" className="lbl-toggle">
           What can I watch on Netflix?
         </label>
         <div className="collapsible-content">
@@ -90,8 +90,8 @@ export default function FrequentlyAskedQuestions() {
             </p>
           </div>
         </div>
-        <input id="collapsible" className="toggle" type="checkbox" />
-        <label for="collapsible" className="lbl-toggle">
+        <input id="collapsible6" className="toggle" type="checkbox" />
+        <label for="collapsible6" className="lbl-toggle">
           Is Netflix good for kids?
         </label>
         <div className="collapsible-content">
