@@ -6,6 +6,7 @@ import RowPost from './Components/RowPost/RowPost.js';
 import Footer from './Components/Footer/Footer.js';
 import {Action,Originals, Romance,Drama} from './url'
 import Homepage from './Components/Homepage/Homepage.jsx';
+import SignupEmail from './Components/SignupEmail/SignupEmail.jsx';
 
 
 function App() {
@@ -19,7 +20,8 @@ function App() {
     <RowPost title="Drama" isSmall url={Drama}/>
 
    <Footer></Footer> */}
-<Homepage></Homepage>
+{/* <Homepage></Homepage> */}
+<SignupEmail></SignupEmail>
 
     </div>
   );
