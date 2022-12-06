@@ -1,10 +1,17 @@
 import React from 'react'
+import './SignupEmail.css'
 
 export default function SignupEmail() {
   return (
     <div>
-        <input type="text" />
-        <button><h2>Get Started > </h2></button>
+      <container className="container">
+<span>Ready to watch? Enter your email to create or restart your membership.</span>
+<section className='input-section'>
+
+        <input type="text"/>
+        <button><span>Get Started > </span></button>
+</section>
+      </container>
     </div>
   )
 }
