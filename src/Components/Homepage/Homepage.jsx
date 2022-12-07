@@ -4,37 +4,21 @@ import "./Homepage.css";
 import FrequentlyAskedQuestions from "./FrequentlyAskedQuestions";
 import Footer from "../Footer/Footer";
 import Button from "./Button";
+import HomepageNavBar from "./NavBar";
+import SignupEmail from "../SignupEmail/SignupEmail";
+
 
 function Homepage() {
   return (
     <div>
-      <header>
-        <nav>
-          <img
-            src="https://www.freepnglogos.com/uploads/netflix-logo-0.png"
-            width="200"
-            alt="netflix  logo"
-          />
-          <section>
-            <label for="language">Language</label>
-            <select name="language" id="language">
-              <option value="English">English</option>
-              <option value="English">Spanish</option>
-              <option value="English">Finnish</option>
-              <option value="English">Ireland</option>
-              <option value="English">German</option>
-            </select>
-            <button className="buttonn ">Sign Out</button>
-          </section>
-        </nav>
-      </header>
+     <HomepageNavBar/>
       {/* <section> */}
       <main>
-        <span>Welcome back!</span>
+       
         <h1>Unlimited movies, TV shows and more.</h1>
         <span>Watch anywhere. Cancel anytime.</span>
-        <Button></Button>
-        
+       
+        <SignupEmail/>
       </main>
       {/* </section> */}
       <container className="watchOnContainer">

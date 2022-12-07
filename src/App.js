@@ -20,7 +20,7 @@ function App() {
     <RowPost title="Drama" isSmall url={Drama}/>
 
    <Footer></Footer> */}
-{/* <Homepage></Homepage> */}
+<Homepage></Homepage>
 <SignupEmail></SignupEmail>
 
     </div>
