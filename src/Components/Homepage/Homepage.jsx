@@ -3,7 +3,7 @@ import React from "react";
 import "./Homepage.css";
 import FrequentlyAskedQuestions from "./FrequentlyAskedQuestions";
 import Footer from "../Footer/Footer";
-import Button from "./Button";
+
 import HomepageNavBar from "./NavBar";
 import SignupEmail from "../SignupEmail/SignupEmail";
 
