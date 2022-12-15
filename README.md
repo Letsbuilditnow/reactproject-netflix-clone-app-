@@ -4,7 +4,7 @@
 </p>
 
 ### ✨ [Demo](https://milannetflix.netlify.app)
-##Built With React JS
+## Built With React JS
 ## Install
 
 ```sh
