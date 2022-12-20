@@ -12,16 +12,16 @@ import SignupEmail from './Components/SignupEmail/SignupEmail.jsx';
 function App() {
   return (
     <div className="App">
-    {/* <NavBar/>
+  `  <NavBar/>
     <Banner/>
     <RowPost title="Netflix Orginals" url={Originals}/>
     <RowPost title="Action" isSmall url={Action} />
     <RowPost title="Romance" isSmall url={Romance}/>
     <RowPost title="Drama" isSmall url={Drama}/>
 
-   <Footer></Footer> */}
-<Homepage></Homepage>
-<SignupEmail></SignupEmail>
+   <Footer></Footer>`
+{/* <Homepage></Homepage>
+<SignupEmail></SignupEmail> */}
 
     </div>
   );

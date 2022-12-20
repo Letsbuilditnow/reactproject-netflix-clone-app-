@@ -1,22 +1,24 @@
-.navbar{
+.homenavbar{
     position : fixed ;
     top:0;
     width:100%;
-    height:30px;
+    height:52px;
     padding:20px;
     display: flex;
     justify-content: space-between;
-    background-color:#111
+    background-color:#111;
+    align-items:center
 
 }
 
-.logo{
+.homelogo{
     position : fixed;
     left : 20px;
-    width:80px;
+    margin-top:4px;
+    width:111px;
 }
 
-.avatar{
+.homeavatar{
     position : fixed;
     right : 20px;
     width : 30px;
