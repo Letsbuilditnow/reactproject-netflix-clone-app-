@@ -1,25 +1,40 @@
-.homenavbar{
-    position : fixed ;
-    top:0;
-    width:100%;
-    height:52px;
-    padding:20px;
-    display: flex;
-    justify-content: space-between;
-    background-color:#111;
-    align-items:center
-
+.homenavbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 52px;
+  padding: 20px;
+  display: flex;
+  /* justify-content: space-between; */
+  background-color: #111;
+  align-items: center;
+  color: white;
+}
+.homenavbar ul{
+display: flex;
+list-style: none;
+width: 800px;
+margin-left:80px;
+align-items: center;
+}
+.homenavbar ul li{
+  width: 400px;
+  display: inline-block;
 }
 
-.homelogo{
-    position : fixed;
-    left : 20px;
-    margin-top:4px;
-    width:111px;
+.tvshows{
+    width:600px;
+    background-color: aliceblue;
+}
+.homelogo {
+  position: fixed;
+  left: 20px;
+  margin-top: 4px;
+  width: 111px;
 }
 
-.homeavatar{
-    position : fixed;
-    right : 20px;
-    width : 30px;
+.homeavatar {
+  position: fixed;
+  right: 20px;
+  width: 30px;
 }
