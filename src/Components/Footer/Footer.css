@@ -27,6 +27,7 @@ a{
 }footer{
     padding: 40px;
     margin: 0 auto;
+    margin-top: 20px;
 }
 section+p{
     color: rgb(115, 115, 115);
