@@ -5,8 +5,8 @@ import Banner from './Components/Banner/Banner.js';
 import RowPost from './Components/RowPost/RowPost.js';
 import Footer from './Components/Footer/Footer.js';
 import {Action,Originals, Romance,Drama} from './url'
-import Homepage from './Components/Homepage/Homepage.jsx';
-import SignupEmail from './Components/SignupEmail/SignupEmail.jsx';
+// import Homepage from './Components/Homepage/Homepage.jsx';
+// import SignupEmail from './Components/SignupEmail/SignupEmail.jsx';
 
 
 function App() {
