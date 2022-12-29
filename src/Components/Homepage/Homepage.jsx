@@ -30,13 +30,13 @@ function Homepage() {
           </h2>
         </section>
         <section className="watchOnImage">
-          <img src="/watchOn.png" alt="Netflix Image" />
+          <img src="/watchOn.png" alt="Netflix " />
         </section>
       </container>
       {/* </section> */}
       <container className=" downloadContainer watchOnContainer">
         <section className="watchOnImage">
-          <img src="/Downloadcontainerimg.png" alt="Netflix Image" />
+          <img src="/Downloadcontainerimg.png" alt="Netflix" />
         </section>
         <section className="watchOn">
           <h1>Download your shows to watch offline.</h1>
@@ -54,12 +54,12 @@ function Homepage() {
           </h2>
         </section>
         <section className="watchOnImage">
-          <img src="/watchEverywhere.png" alt="Netflix Image" />
+          <img src="/watchEverywhere.png" alt="Netflix" />
         </section>
       </container>
       <container className="createProfilesContainer downloadContainer watchOnContainer">
         <section className="watchOnImage">
-          <img src="/createProfilesContainer.png" alt="Netflix Image" />
+          <img src="/createProfilesContainer.png" alt="Netflix" />
         </section>
         <section className="watchOn">
           <h1>Create profiles for children.</h1>
