@@ -1,37 +1,29 @@
-<h1 align="center">Welcome to netflix-clone 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-</p>
 
-### ✨ [ D e m o ](https://milannetflix.netlify.app)
-## Built With React JS
-## Install
+# Netflix-Clone
 
-```sh
-npm install
-```
+This Netflix clone project is a web application that imitates the main features of the original Netflix platform.
 
-## Usage
 
-```sh
-npm run start
-```
+## Demo
 
-## Run tests
+https://milannetflix.netlify.app/
 
-```sh
-npm run test
-```
 
-## Author
 
-👤 **Milan**
+## How It's Made:
 
-* Github: [@Letsbuilditnow](https://github.com/Letsbuilditnow)
+Tech used: React, HTML, CSS, JavaScript.
 
-## Show your support
+This Netflix clone project is built with React, a JavaScript library for building user interfaces. React allows for the creation of reusable UI components, which makes it an excellent tool for creating dynamic web applications.
 
-Give a ⭐️ if this project helped you!
+The first step in building this project was to plan out the structure of the application. This involved breaking down the UI into smaller components that could be reused throughout the application. For example, a movie or TV show card component could be used to display details about different titles.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+Once the component structure was established, The next thing was to build out the functionality of the application. This included  fetching data from an external API (such as TMDB), and displaying the data in the UI. For example, In this project the TMDB API is used to fetch movie and TV show data and displayed it in a grid layout on the page.
+
+Overall, building this Netflix clone project with React was a great learning experience and allowed me to improve my skills in front-end web development. It required careful planning, attention to detail, and improved the understanding of React fundamentals.
+## Lessons Learned
+
+Reusable components are powerful: By breaking down the UI into reusable components, it became much easier to manage and update the application. It also made it much easier to add new features to the application.
+
+Learning is a continuous process: Building this project was a great learning experience, but it is important to remember that there is always more to learn. Staying up-to-date with new tools and technologies is crucial for personal and professional growth as a developer.
+
